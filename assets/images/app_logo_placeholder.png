@@ -1,0 +1,31 @@
+<svg xmlns="http://w3.org" viewBox="0 0 500 500" width="250" height="250">
+  <!-- Outer Lime Green Ring -->
+  <circle cx="250" cy="250" r="245" fill="#B5D334" />
+  
+  <!-- Middle White Ring -->
+  <circle cx="250" cy="250" r="198" fill="#FFFFFF" />
+  
+  <!-- Inner Olive Green Circle -->
+  <circle cx="250" cy="250" r="165" fill="#5D8731" />
+  
+  <!-- "CAPE TOWN" Text -->
+  <text x="250" y="195" 
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+        font-size="33" 
+        font-weight="500" 
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        letter-spacing="4">CAPE TOWN</text>
+        
+  <!-- "CCID" Text -->
+  <text x="250" y="295" 
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+        font-size="112" 
+        font-weight="700" 
+        fill="#000000" 
+        text-anchor="middle" 
+        letter-spacing="4">CCID</text>
+        
+  <!-- Bottom Stylized Arrow/Line -->
+  <polygon points="118,332 142,320 147,330 382,330 358,342 353,332" fill="#B5D334" />
+</svg>
